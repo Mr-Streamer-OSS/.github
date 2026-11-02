@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Mr-Streamer-OSS/MrStreamer/main/docs/assets/banner.png" alt="Mr. Streamer, with its Home page" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mr-Streamer-OSS/MrStreamer/main/docs/assets/readme-mark.svg" alt="" width="72" height="72"></p>
 
 <h1 align="center">Mr. Streamer</h1>
 
